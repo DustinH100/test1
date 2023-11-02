@@ -1,4 +1,5 @@
 """TPRG2131 Winter 202x RC class starter with simplistic test code."""
+#Dustin Horne
 
 class ResistorCapacitor (object):
     """Model a resistor-capacitor network"""
